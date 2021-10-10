@@ -8,4 +8,8 @@ cd pyparserai
 python3 setup.py install
 ```
 ## Usage
+```python
+from pyparserai import Prai
+pars = Prai()
+```
 ## Examples
