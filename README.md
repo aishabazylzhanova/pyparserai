@@ -13,3 +13,6 @@ from pyparserai import Prai
 pars = Prai()
 ```
 ## Examples
+```
+pars.GetInfo('bitcoin')
+```
